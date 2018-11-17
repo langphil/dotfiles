@@ -20,6 +20,7 @@ brew xz
 brew zsh
 
 tap homebrew/cask
+cask 1password
 
 tap rcmdnk/file
 brew brew-file
