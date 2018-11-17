@@ -4,7 +4,9 @@
 tap homebrew/core
 brew gettext
 brew git
+brew icu4c
 brew mas
+brew node
 brew pcre2
 
 tap homebrew/cask
