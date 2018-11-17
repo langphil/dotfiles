@@ -2,12 +2,18 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew gdbm
 brew gettext
 brew git
 brew icu4c
 brew mas
 brew node
+brew openssl
 brew pcre2
+brew python
+brew readline
+brew sqlite
+brew xz
 
 tap homebrew/cask
 
