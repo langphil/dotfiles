@@ -6,12 +6,14 @@ brew gdbm
 brew gettext
 brew git
 brew icu4c
+brew libyaml
 brew mas
 brew node
 brew openssl
 brew pcre2
 brew python
 brew readline
+brew ruby
 brew sqlite
 brew xz
 
