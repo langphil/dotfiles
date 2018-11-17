@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew gdbm
+brew geckodriver
 brew gettext
 brew git
 brew icu4c
