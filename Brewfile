@@ -34,6 +34,10 @@ cask spotify
 cask transmission
 cask vlc
 
+tap heroku/brew
+brew heroku
+brew heroku-node
+
 tap rcmdnk/file
 brew brew-file
 
