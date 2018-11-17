@@ -21,9 +21,35 @@ brew zsh
 
 tap homebrew/cask
 cask 1password
+cask atom
+cask cyberduck
+cask elmedia-player
+cask focus
+cask iterm2
+cask mamp
+cask postman
+cask sdformatter
+cask skype
+cask spotify
+cask transmission
+cask vlc
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Cask applications
+cask alfred
+cask codekit
+cask dropbox
+cask expressvpn
+cask google-chrome
+cask keybase
+cask onyx
+cask processing
+cask sequel-pro
+cask slack
+cask steam
+cask virtualbox
 
 # App Store applications
 appstore 918858936 Airmail 3 (3.6.50)
