@@ -12,6 +12,7 @@ brew mas
 brew ncurses
 brew node
 brew openssl
+brew pcre
 brew pcre2
 brew python
 brew readline
@@ -57,14 +58,14 @@ cask steam
 cask virtualbox
 
 # App Store applications
-appstore 918858936 Airmail 3 (3.6.51)
-appstore 937984704 Amphetamine (4.0.5)
-appstore 409183694 Keynote (8.3)
-appstore 441258766 Magnet (2.4)
-appstore 409203825 Numbers (5.3)
-appstore 409201541 Pages (7.3)
-appstore 990885356 Paragraphs (1.1.4)
-appstore 568494494 Pocket (1.8.1)
-appstore 507257563 Sip (4.5.2)
-appstore 409789998 Twitter (4.3.2)
-appstore 497799835 Xcode (10.1)
+appstore 990885356  (1.1.4)
+appstore 568494494  (1.8.2)
+appstore 497799835  (10.2)
+appstore 441258766  (2.4.2)
+appstore 918858936  (3.6.58)
+appstore 937984704  (4.1.5)
+appstore 409789998  (4.3.2)
+appstore 507257563  (4.5.2)
+appstore 409203825  (6.0)
+appstore 409201541  (8.0)
+appstore 409183694  (9.0)
