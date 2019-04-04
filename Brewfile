@@ -6,6 +6,7 @@ brew gdbm
 brew geckodriver
 brew gettext
 brew git
+brew gmp
 brew icu4c
 brew libyaml
 brew mas
@@ -59,7 +60,7 @@ cask virtualbox
 
 # App Store applications
 appstore 497799835 com.apple.dt.Xcode (10.2)
-appstore 409183694 com.apple.iWork.Keynote (9.0)
+appstore 409183694 com.apple.iWork.Keynote (9.0.1)
 appstore 409203825 com.apple.iWork.Numbers (6.0)
 appstore 409201541 com.apple.iWork.Pages (8.0)
 appstore 441258766 com.crowdcafe.windowmagnet (2.4.2)
