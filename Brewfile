@@ -2,17 +2,20 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew coreutils
 brew gdbm
 brew geckodriver
 brew gettext
 brew git
 brew gmp
 brew icu4c
+brew libxml2
 brew libyaml
 brew mas
 brew ncurses
 brew node
 brew openssl
+brew openssl@1.1
 brew pcre
 brew pcre2
 brew python
