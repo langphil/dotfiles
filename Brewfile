@@ -32,13 +32,13 @@ cask cyberduck
 cask elmedia-player
 cask focus
 cask iterm2
-cask mamp
-cask postman
-cask sdformatter
-cask skype
-cask spotify
-cask transmission
-cask vlc
+cask lepton
+cask onyx
+cask processing
+cask sequel-pro
+cask slack
+cask steam
+cask virtualbox
 
 tap heroku/brew
 brew heroku
@@ -54,12 +54,13 @@ cask dropbox
 cask expressvpn
 cask google-chrome
 cask keybase
-cask onyx
-cask processing
-cask sequel-pro
-cask slack
-cask steam
-cask virtualbox
+cask mamp
+cask postman
+cask sdformatter
+cask skype
+cask spotify
+cask transmission
+cask vlc
 
 # App Store applications
 appstore 497799835 com.apple.dt.Xcode (10.2)
