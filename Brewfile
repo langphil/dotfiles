@@ -14,6 +14,7 @@ brew fontconfig
 brew freetype
 brew freexl
 brew gcc
+brew gd
 brew gdal
 brew gdbm
 brew geckodriver
@@ -23,6 +24,8 @@ brew giflib
 brew git
 brew glib
 brew gmp
+brew graphviz
+brew gts
 brew hdf5
 brew icu4c
 brew isl
@@ -30,6 +33,7 @@ brew jasper
 brew jpeg
 brew json-c
 brew libdap
+brew libevent
 brew libffi
 brew libgeotiff
 brew libmpc
@@ -42,9 +46,11 @@ brew libxml2
 brew libyaml
 brew little-cms2
 brew mas
+brew memcached
 brew mpfr
 brew ncurses
 brew netcdf
+brew netpbm
 brew node
 brew nspr
 brew nss
@@ -69,6 +75,7 @@ brew python
 brew python@2
 brew qt
 brew readline
+brew redis
 brew ruby
 brew sfcgal
 brew sqlite
@@ -100,6 +107,9 @@ cask virtualbox
 tap heroku/brew
 brew heroku
 brew heroku-node
+
+tap puma/puma
+brew puma-dev
 
 tap rcmdnk/file
 brew brew-file
