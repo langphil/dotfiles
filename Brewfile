@@ -132,7 +132,7 @@ cask virtualbox
 
 # App Store applications
 appstore 918858936 Airmail (3.6.58)
-appstore 937984704 Amphetamine (4.1.6)
+appstore 937984704 Amphetamine (4.2)
 appstore 409183694 Keynote (9.0.2)
 appstore 441258766 Magnet (2.4.3)
 appstore 409203825 Numbers (6.0)
