@@ -45,6 +45,7 @@ brew libtool
 brew libxml2
 brew libyaml
 brew little-cms2
+brew lzo
 brew mas
 brew memcached
 brew mpfr
@@ -131,7 +132,7 @@ cask steam
 cask virtualbox
 
 # App Store applications
-appstore 918858936 Airmail (3.6.58)
+appstore 918858936 Airmail (3.6.60)
 appstore 937984704 Amphetamine (4.2)
 appstore 409183694 Keynote (9.0.2)
 appstore 441258766 Magnet (2.4.4)
