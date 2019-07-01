@@ -52,6 +52,7 @@ brew mpfr
 brew ncurses
 brew netcdf
 brew netpbm
+brew nmap
 brew node
 brew nspr
 brew nss
@@ -93,18 +94,18 @@ tap homebrew/services
 tap homebrew/cask
 cask 1password
 cask atom
-cask cyberduck
-cask dropbox
-cask expressvpn
-cask google-chrome
-cask keybase
-cask mamp
-cask postman
-cask sdformatter
-cask skype
-cask spotify
-cask transmission
-cask vlc
+cask codekit
+cask docker-toolbox
+cask elmedia-player
+cask focus
+cask iterm2
+cask lepton
+cask onyx
+cask processing
+cask sequel-pro
+cask slack
+cask steam
+cask virtualbox
 
 tap heroku/brew
 brew heroku
@@ -118,18 +119,19 @@ brew brew-file
 
 # Other Cask applications
 cask alfred
-cask codekit
-cask docker-toolbox
-cask elmedia-player
-cask focus
-cask iterm2
-cask lepton
-cask onyx
-cask processing
-cask sequel-pro
-cask slack
-cask steam
-cask virtualbox
+cask balenaetcher
+cask cyberduck
+cask dropbox
+cask expressvpn
+cask google-chrome
+cask keybase
+cask mamp
+cask postman
+cask sdformatter
+cask skype
+cask spotify
+cask transmission
+cask vlc
 
 # App Store applications
 appstore 918858936 Airmail (3.6.60)
