@@ -134,7 +134,7 @@ cask transmission
 cask vlc
 
 # App Store applications
-appstore 918858936 Airmail (3.6.60)
+appstore 918858936 Airmail (3.6.70)
 appstore 937984704 Amphetamine (4.2)
 appstore 409183694 Keynote (9.1)
 appstore 441258766 Magnet (2.4.4)
