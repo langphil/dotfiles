@@ -106,6 +106,7 @@ cask sequel-pro
 cask slack
 cask steam
 cask virtualbox
+cask vlc
 
 tap heroku/brew
 brew heroku
@@ -131,7 +132,7 @@ cask sdformatter
 cask skype
 cask spotify
 cask transmission
-cask vlc
+cask visual-studio-code
 
 # App Store applications
 appstore 918858936 Airmail (3.6.71)
