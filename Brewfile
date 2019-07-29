@@ -97,16 +97,16 @@ cask atom
 cask codekit
 cask docker-toolbox
 cask elmedia-player
-cask focus
-cask iterm2
-cask lepton
-cask onyx
-cask processing
-cask sequel-pro
-cask slack
-cask steam
-cask virtualbox
-cask vlc
+cask fing
+cask google-chrome
+cask keybase
+cask mamp
+cask postman
+cask sdformatter
+cask skype
+cask spotify
+cask transmission
+cask visual-studio-code
 
 tap heroku/brew
 brew heroku
@@ -124,15 +124,16 @@ cask balenaetcher
 cask cyberduck
 cask dropbox
 cask expressvpn
-cask google-chrome
-cask keybase
-cask mamp
-cask postman
-cask sdformatter
-cask skype
-cask spotify
-cask transmission
-cask visual-studio-code
+cask focus
+cask iterm2
+cask lepton
+cask onyx
+cask processing
+cask sequel-pro
+cask slack
+cask steam
+cask virtualbox
+cask vlc
 
 # App Store applications
 appstore 918858936 Airmail (3.6.71)
