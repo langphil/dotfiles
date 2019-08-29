@@ -102,11 +102,12 @@ cask google-chrome
 cask keybase
 cask mamp
 cask postman
-cask sdformatter
-cask skype
-cask spotify
-cask transmission
-cask visual-studio-code
+cask screenflick
+cask sequel-pro
+cask slack
+cask steam
+cask virtualbox
+cask vlc
 
 tap heroku/brew
 brew heroku
@@ -129,11 +130,11 @@ cask iterm2
 cask lepton
 cask onyx
 cask processing
-cask sequel-pro
-cask slack
-cask steam
-cask virtualbox
-cask vlc
+cask sdformatter
+cask skype
+cask spotify
+cask transmission
+cask visual-studio-code
 
 # App Store applications
 appstore 918858936 Airmail (3.6.71)
