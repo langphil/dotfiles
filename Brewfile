@@ -142,7 +142,7 @@ cask visual-studio-code
 appstore 918858936 Airmail (3.6.71)
 appstore 937984704 Amphetamine (4.2)
 appstore 409183694 Keynote (9.2)
-appstore 441258766 Magnet (2.4.4)
+appstore 441258766 Magnet (2.4.5)
 appstore 409203825 Numbers (6.2)
 appstore 409201541 Pages (8.2)
 appstore 990885356 Paragraphs (1.1.4)
