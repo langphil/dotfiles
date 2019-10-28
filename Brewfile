@@ -139,7 +139,7 @@ cask transmission
 cask visual-studio-code
 
 # App Store applications
-appstore 918858936 Airmail (3.6.71)
+appstore 918858936 Airmail (3.6.72)
 appstore 937984704 Amphetamine (4.2)
 appstore 409183694 Keynote (9.2)
 appstore 441258766 Magnet (2.4.5)
