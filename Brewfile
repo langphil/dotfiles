@@ -47,6 +47,7 @@ brew libyaml
 brew little-cms2
 brew lzo
 brew mas
+brew maven
 brew memcached
 brew mpfr
 brew ncurses
@@ -93,34 +94,6 @@ tap homebrew/services
 
 tap homebrew/cask
 cask 1password
-cask atom
-cask codekit
-cask docker-toolbox
-cask elmedia-player
-cask fing
-cask google-chrome
-cask keybase
-cask mamp
-cask onyx
-cask processing
-cask sdformatter
-cask skype
-cask soundflower
-cask steam
-cask virtualbox
-cask vlc
-
-tap heroku/brew
-brew heroku
-brew heroku-node
-
-tap puma/puma
-brew puma-dev
-
-tap rcmdnk/file
-brew brew-file
-
-# Other Cask applications
 cask alfred
 cask balenaetcher
 cask cyberduck
@@ -137,6 +110,35 @@ cask slack
 cask spotify
 cask transmission
 cask visual-studio-code
+
+tap heroku/brew
+brew heroku
+brew heroku-node
+
+tap puma/puma
+brew puma-dev
+
+tap rcmdnk/file
+brew brew-file
+
+# Other Cask applications
+cask adoptopenjdk
+cask atom
+cask codekit
+cask docker-toolbox
+cask elmedia-player
+cask fing
+cask google-chrome
+cask keybase
+cask mamp
+cask onyx
+cask processing
+cask sdformatter
+cask skype
+cask soundflower
+cask steam
+cask virtualbox
+cask vlc
 
 # App Store applications
 appstore 918858936 Airmail (3.6.73)
