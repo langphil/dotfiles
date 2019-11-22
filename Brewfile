@@ -60,7 +60,6 @@ brew nss
 brew numpy
 brew openblas
 brew openjpeg
-brew openssl
 brew openssl@1.1
 brew pcre
 brew pcre2
