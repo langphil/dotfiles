@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew aws-elasticbeanstalk
+brew awscli
 brew boost
 brew cairo
 brew cfitsio
