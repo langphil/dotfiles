@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew aws-elasticbeanstalk
 brew boost
 brew cairo
 brew cfitsio
@@ -151,5 +152,5 @@ appstore 990885356 Paragraphs (1.1.4)
 appstore 568494494 Pocket (1.8.5)
 appstore 507257563 Sip (4.5.2)
 appstore 409789998 Twitter (4.3.2)
-appstore 1482454543 Twitter (8.3)
+appstore 1482454543 Twitter (8.3.1)
 appstore 497799835 Xcode (11.1)
