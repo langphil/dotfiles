@@ -2,6 +2,8 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew autoconf
+brew automake
 brew aws-elasticbeanstalk
 brew awscli
 brew boost
@@ -38,6 +40,8 @@ brew libdap
 brew libevent
 brew libffi
 brew libgeotiff
+brew libgpg-error
+brew libksba
 brew libmpc
 brew libpng
 brew libpq
@@ -66,6 +70,7 @@ brew openssl@1.1
 brew pcre
 brew pcre2
 brew pixman
+brew pkg-config
 brew poppler
 brew popt
 brew postgis
@@ -88,6 +93,7 @@ brew unixodbc
 brew webp
 brew xerces-c
 brew xz
+brew zlib
 brew zsh
 brew zstd
 
