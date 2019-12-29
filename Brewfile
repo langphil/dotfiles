@@ -82,6 +82,7 @@ brew protobuf
 brew protobuf-c
 brew python
 brew python@2
+brew python@3.8
 brew qt
 brew readline
 brew redis
