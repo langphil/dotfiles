@@ -153,6 +153,7 @@ cask vlc
 # App Store applications
 appstore 918858936 Airmail (3.6.73)
 appstore 937984704 Amphetamine (4.2)
+appstore 1121192229 Better (2018.2)
 appstore 409183694 Keynote (9.2.1)
 appstore 441258766 Magnet (2.4.5)
 appstore 409203825 Numbers (6.2.1)
