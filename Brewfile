@@ -102,23 +102,41 @@ tap homebrew/services
 
 tap homebrew/cask
 cask 1password
+cask adoptopenjdk
 cask alfred
+cask atom
 cask balenaetcher
+cask codekit
 cask cyberduck
+cask dbeaver-community
 cask docker-toolbox
+cask dropbox
 cask elmedia-player
+cask expressvpn
 cask fing
+cask focus
 cask fork
+cask google-chrome
 cask iterm2
+cask keybase
 cask lepton
+cask mamp
 cask obs
+cask onyx
 cask postman
+cask processing
 cask screenflick
+cask sdformatter
 cask sequel-pro
+cask skype
 cask slack
+cask soundflower
 cask spotify
+cask steam
 cask transmission
+cask virtualbox
 cask visual-studio-code
+cask vlc
 
 tap heroku/brew
 brew heroku
@@ -130,30 +148,10 @@ brew puma-dev
 tap rcmdnk/file
 brew brew-file
 
-# Other Cask applications
-cask adoptopenjdk
-cask atom
-cask codekit
-cask dbeaver-community
-cask dropbox
-cask expressvpn
-cask focus
-cask google-chrome
-cask keybase
-cask mamp
-cask onyx
-cask processing
-cask sdformatter
-cask skype
-cask soundflower
-cask steam
-cask virtualbox
-cask vlc
-
 # App Store applications
 appstore 918858936 Airmail (3.6.73)
 appstore 937984704 Amphetamine (4.2)
-appstore 1121192229 Better (2018.2)
+appstore 1121192229 Better (2020.1)
 appstore 409183694 Keynote (9.2.1)
 appstore 441258766 Magnet (2.4.5)
 appstore 409203825 Numbers (6.2.1)
