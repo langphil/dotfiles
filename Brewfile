@@ -113,6 +113,7 @@ cask docker-toolbox
 cask dropbox
 cask elmedia-player
 cask expressvpn
+cask fantastical
 cask fing
 cask focus
 cask fork
