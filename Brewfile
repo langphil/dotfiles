@@ -65,6 +65,7 @@ brew nspr
 brew nss
 brew numpy
 brew openblas
+brew openjdk
 brew openjpeg
 brew openssl@1.1
 brew pcre
@@ -81,7 +82,6 @@ brew proj
 brew protobuf
 brew protobuf-c
 brew python
-brew python@2
 brew python@3.8
 brew qt
 brew readline
@@ -149,6 +149,9 @@ brew puma-dev
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Homebrew packages
+brew python@2
 
 # App Store applications
 appstore 918858936 Airmail (3.6.73)
