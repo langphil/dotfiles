@@ -36,6 +36,7 @@ brew isl
 brew jasper
 brew jpeg
 brew json-c
+brew krb5
 brew libdap
 brew libevent
 brew libffi
@@ -154,7 +155,7 @@ brew brew-file
 brew python@2
 
 # App Store applications
-appstore 918858936 Airmail (3.6.73)
+appstore 918858936 Airmail (4.0)
 appstore 937984704 Amphetamine (4.2)
 appstore 1121192229 Better (2020.2)
 appstore 409183694 Keynote (9.2.1)
@@ -165,5 +166,5 @@ appstore 990885356 Paragraphs (1.1.4)
 appstore 568494494 Pocket (1.8.5)
 appstore 507257563 Sip (4.5.2)
 appstore 409789998 Twitter (4.3.2)
-appstore 1482454543 Twitter (8.7.1)
+appstore 1482454543 Twitter (8.8)
 appstore 497799835 Xcode (11.3.1)
