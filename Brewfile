@@ -155,7 +155,7 @@ brew brew-file
 brew python@2
 
 # App Store applications
-appstore 918858936 Airmail (4.0)
+appstore 918858936 Airmail (4.0.4)
 appstore 937984704 Amphetamine (4.2)
 appstore 1121192229 Better (2020.2)
 appstore 409183694 Keynote (9.2.1)
