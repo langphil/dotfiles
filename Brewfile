@@ -106,9 +106,12 @@ cask 1password
 cask adoptopenjdk
 cask alfred
 cask atom
+cask backblaze
 cask balenaetcher
+cask brave-browser
 cask codekit
 cask cyberduck
+cask dash
 cask dbeaver-community
 cask docker-toolbox
 cask dropbox
@@ -116,6 +119,7 @@ cask elmedia-player
 cask expressvpn
 cask fantastical
 cask fing
+cask firefox
 cask focus
 cask fork
 cask google-chrome
@@ -140,6 +144,7 @@ cask transmission
 cask virtualbox
 cask visual-studio-code
 cask vlc
+cask zoom
 
 tap adoptopenjdk/openjdk
 cask adoptopenjdk12
