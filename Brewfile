@@ -141,6 +141,9 @@ cask virtualbox
 cask visual-studio-code
 cask vlc
 
+tap adoptopenjdk/openjdk
+cask adoptopenjdk12
+
 tap heroku/brew
 brew heroku
 brew heroku-node
@@ -156,12 +159,12 @@ brew python@2
 
 # App Store applications
 appstore 918858936 Airmail (4.0.6)
-appstore 937984704 Amphetamine (5.0.1)
-appstore 409183694 Keynote (9.2.1)
+appstore 937984704 Amphetamine (5.0.2)
+appstore 409183694 Keynote (10.0)
 appstore 441258766 Magnet (2.4.5)
-appstore 409203825 Numbers (6.2.1)
-appstore 409201541 Pages (8.2.1)
+appstore 409203825 Numbers (10.0)
+appstore 409201541 Pages (10.0)
 appstore 990885356 Paragraphs (1.1.4)
 appstore 409789998 Twitter (4.3.2)
-appstore 1482454543 Twitter (8.13)
-appstore 497799835 Xcode (11.3.1)
+appstore 1482454543 Twitter (8.15)
+appstore 497799835 Xcode (11.4)
