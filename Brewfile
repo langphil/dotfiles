@@ -103,7 +103,6 @@ tap homebrew/services
 
 tap homebrew/cask
 cask 1password
-cask adoptopenjdk
 cask alfred
 cask atom
 cask backblaze
