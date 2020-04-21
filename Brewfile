@@ -106,6 +106,7 @@ cask 1password
 cask alfred
 cask atom
 cask backblaze
+cask backblaze-downloader
 cask balenaetcher
 cask brave-browser
 cask codekit
