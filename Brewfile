@@ -52,6 +52,7 @@ brew libtool
 brew libxml2
 brew libyaml
 brew little-cms2
+brew lz4
 brew lzo
 brew mas
 brew maven
@@ -69,9 +70,11 @@ brew openblas
 brew openjdk
 brew openjpeg
 brew openssl@1.1
+brew openvpn
 brew pcre
 brew pcre2
 brew pixman
+brew pkcs11-helper
 brew pkg-config
 brew poppler
 brew popt
