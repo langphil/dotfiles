@@ -17,6 +17,7 @@ brew expat
 brew fontconfig
 brew freetype
 brew freexl
+brew fribidi
 brew gcc
 brew gd
 brew gdal
@@ -28,8 +29,10 @@ brew giflib
 brew git
 brew glib
 brew gmp
+brew graphite2
 brew graphviz
 brew gts
+brew harfbuzz
 brew hdf5
 brew icu4c
 brew isl
@@ -71,6 +74,7 @@ brew openjdk
 brew openjpeg
 brew openssl@1.1
 brew openvpn
+brew pango
 brew pcre
 brew pcre2
 brew pixman
