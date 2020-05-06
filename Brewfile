@@ -113,42 +113,27 @@ cask 1password
 cask alfred
 cask atom
 cask backblaze
-cask backblaze-downloader
 cask balenaetcher
 cask brave-browser
 cask codekit
 cask cyberduck
 cask dash
 cask dbeaver-community
-cask docker-toolbox
-cask dropbox
-cask elmedia-player
 cask expressvpn
 cask fantastical
 cask fing
 cask firefox
 cask focus
-cask fork
 cask google-chrome
 cask imageoptim
 cask iterm2
-cask keybase
-cask lepton
-cask mamp
-cask obs
 cask onyx
 cask postman
-cask processing
-cask screenflick
 cask sdformatter
-cask sequel-pro
 cask skype
 cask slack
-cask soundflower
 cask spotify
-cask steam
 cask transmission
-cask virtualbox
 cask visual-studio-code
 cask vlc
 cask zoom
@@ -176,7 +161,6 @@ appstore 409183694 Keynote (10.0)
 appstore 441258766 Magnet (2.4.5)
 appstore 409203825 Numbers (10.0)
 appstore 409201541 Pages (10.0)
-appstore 990885356 Paragraphs (1.1.4)
 appstore 409789998 Twitter (4.3.2)
 appstore 1482454543 Twitter (8.18.1)
 appstore 497799835 Xcode (11.4.1)
