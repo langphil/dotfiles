@@ -128,7 +128,6 @@ cask fantastical
 cask fing
 cask firefox
 cask focus
-cask fork
 cask google-chrome
 cask imageoptim
 cask iterm2
@@ -139,7 +138,6 @@ cask obs
 cask onyx
 cask postman
 cask processing
-cask screenflick
 cask sdformatter
 cask sequel-pro
 cask skype
