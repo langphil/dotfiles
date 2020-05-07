@@ -115,6 +115,7 @@ cask atom
 cask backblaze
 cask balenaetcher
 cask brave-browser
+cask browserosaurus
 cask codekit
 cask cyberduck
 cask dash
@@ -134,6 +135,7 @@ cask spotify
 cask transmission
 cask visual-studio-code
 cask vlc
+cask whatsapp
 cask zoom
 
 tap adoptopenjdk/openjdk
