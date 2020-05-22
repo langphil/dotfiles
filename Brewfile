@@ -150,6 +150,7 @@ tap homebrew/services
 
 tap homebrew/cask
 cask 1password
+cask 4k-video-downloader
 cask alfred
 cask atom
 cask backblaze
