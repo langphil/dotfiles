@@ -142,6 +142,7 @@ brew x265
 brew xerces-c
 brew xmlto
 brew xz
+brew yarn
 brew zlib
 brew zsh
 brew zstd
