@@ -43,6 +43,7 @@ brew git
 brew glib
 brew gmp
 brew gnu-getopt
+brew gobject-introspection
 brew graphite2
 brew graphviz
 brew gts
@@ -68,11 +69,13 @@ brew libgpg-error
 brew libheif
 brew libidn
 brew libksba
+brew liblqr
 brew libmetalink
 brew libmpc
 brew libomp
 brew libpng
 brew libpq
+brew libscrypt
 brew libsodium
 brew libspatialite
 brew libssh2
@@ -124,7 +127,6 @@ brew postgresql@9.6
 brew proj
 brew protobuf
 brew protobuf-c
-brew python
 brew python@3.8
 brew qt
 brew readline
@@ -174,8 +176,10 @@ cask onyx
 cask postman
 cask sdformatter
 cask sequel-pro
+cask sketch
 cask slack
 cask spotify
+cask tor-browser
 cask transmission
 cask visual-studio-code
 cask vlc
@@ -199,11 +203,13 @@ brew brew-file
 brew python@2
 
 # App Store applications
-appstore 918858936 Airmail (4.0.7)
-appstore 937984704 Amphetamine (5.0.2)
-appstore 409183694 Keynote (10.0)
-appstore 441258766 Magnet (2.4.5)
-appstore 409203825 Numbers (10.0)
-appstore 409201541 Pages (10.0)
-appstore 1482454543 Twitter (8.20.1)
-appstore 497799835 Xcode (11.5)
+appstore 918858936 Airmail (4.1.5)
+appstore 937984704 Amphetamine (5.0.3)
+appstore 993487541 CARROT Weather (4.15.2)
+appstore 408981434 iMovie (10.1.15)
+appstore 409183694 Keynote (10.1)
+appstore 441258766 Magnet (2.4.6)
+appstore 409203825 Numbers (10.1)
+appstore 409201541 Pages (10.1)
+appstore 1482454543 Twitter (8.34)
+appstore 497799835 Xcode (11.7)
