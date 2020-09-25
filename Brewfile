@@ -169,6 +169,7 @@ cask fantastical
 cask firefox
 cask focus
 cask google-chrome
+cask handbrake
 cask iterm2
 cask keybase
 cask mamp
@@ -206,10 +207,10 @@ brew python@2
 appstore 918858936 Airmail (4.1.6)
 appstore 937984704 Amphetamine (5.0.3)
 appstore 993487541 CARROT Weather (4.15.2)
-appstore 408981434 iMovie (10.1.15)
-appstore 409183694 Keynote (10.1)
+appstore 408981434 iMovie (10.1.16)
+appstore 409183694 Keynote (10.2)
 appstore 441258766 Magnet (2.4.7)
-appstore 409203825 Numbers (10.1)
-appstore 409201541 Pages (10.1)
-appstore 1482454543 Twitter (8.36)
-appstore 497799835 Xcode (12.0)
+appstore 409203825 Numbers (10.2)
+appstore 409201541 Pages (10.2)
+appstore 1482454543 Twitter (8.37.1)
+appstore 497799835 Xcode (12.0.1)
