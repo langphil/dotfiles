@@ -205,7 +205,7 @@ brew brew-file
 brew python@2
 
 # App Store applications
-appstore 918858936 Airmail (4.1.6)
+appstore 918858936 Airmail (4.1.8)
 appstore 937984704 Amphetamine (5.0.3)
 appstore 993487541 CARROT Weather (4.15.2)
 appstore 408981434 iMovie (10.1.16)
