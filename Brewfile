@@ -206,8 +206,8 @@ brew python@2
 
 # App Store applications
 appstore 918858936 Airmail (4.1.8)
-appstore 937984704 Amphetamine (5.0.3)
-appstore 993487541 CARROT Weather (4.15.2)
+appstore 937984704 Amphetamine (5.1)
+appstore 993487541 CARROT Weather (4.15.3)
 appstore 408981434 iMovie (10.2.1)
 appstore 409183694 Keynote (10.3.5)
 appstore 441258766 Magnet (2.5.0)
