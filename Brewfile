@@ -75,6 +75,7 @@ brew libmpc
 brew libomp
 brew libpng
 brew libpq
+brew librttopo
 brew libscrypt
 brew libsodium
 brew libspatialite
@@ -90,6 +91,7 @@ brew lzo
 brew mas
 brew maven
 brew memcached
+brew minizip
 brew mpfr
 brew mysql
 brew ncurses
@@ -205,7 +207,7 @@ brew brew-file
 brew python@2
 
 # App Store applications
-appstore 918858936 Airmail (4.1.8)
+appstore 918858936 Airmail (4.5.1)
 appstore 937984704 Amphetamine (5.1)
 appstore 993487541 CARROT Weather (4.15.3)
 appstore 408981434 iMovie (10.2.1)
