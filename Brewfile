@@ -199,12 +199,14 @@ cask focus
 cask gitify
 cask google-chrome
 cask handbrake
+cask istat-menus
 cask iterm2
 cask keybase
 cask mamp
 cask onyx
 cask plex-media-player
 cask postman
+cask rectangle
 cask sdformatter
 cask sequel-pro
 cask sketch
@@ -239,10 +241,13 @@ brew python@2
 # App Store applications
 appstore 918858936 Airmail (5.0.4)
 appstore 993487541 CARROT Weather (4.15.6)
+appstore 1436953057 Ghostery Lite (1.1.0)
 appstore 408981434 iMovie (10.2.3)
 appstore 409183694 Keynote (11.0.1)
+appstore 441258766 Magnet (2.6.0)
+appstore 1514164630 Minimal Consent (1.1.1)
 appstore 409203825 Numbers (11.0)
 appstore 409201541 Pages (11.0)
 appstore 568494494 Pocket (1.8.6)
-appstore 1482454543 Twitter (8.60)
+appstore 1482454543 Twitter (8.61)
 appstore 497799835 Xcode (12.4)
