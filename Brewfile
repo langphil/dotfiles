@@ -241,6 +241,7 @@ brew python@2
 # App Store applications
 appstore 918858936 Airmail (5.0.4)
 appstore 993487541 CARROT Weather (4.15.6)
+appstore 363738376 forScore (12.1.1)
 appstore 1436953057 Ghostery Lite (1.1.0)
 appstore 408981434 iMovie (10.2.3)
 appstore 409183694 Keynote (11.0.1)
