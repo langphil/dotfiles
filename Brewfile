@@ -57,6 +57,7 @@ brew hdf5
 brew icu4c
 brew ilmbase
 brew imagemagick
+brew imath
 brew isl
 brew jansson
 brew jasper
@@ -239,14 +240,14 @@ brew brew-file
 brew python@2
 
 # App Store applications
-appstore 918858936 Airmail (5.0.4)
-appstore 993487541 CARROT Weather (4.15.6)
-appstore 363738376 forScore (12.1.3)
-appstore 682658836 GarageBand (10.4.3)
-appstore 408981434 iMovie (10.2.3)
-appstore 409183694 Keynote (11.0.1)
-appstore 409203825 Numbers (11.0)
-appstore 409201541 Pages (11.0)
-appstore 568494494 Pocket (1.8.6)
-appstore 1482454543 Twitter (8.63.1)
-appstore 497799835 Xcode (12.5)
+appstore 918858936   Airmail         (5.0.4)
+appstore 993487541   CARROT Weather  (4.15.6)
+appstore 363738376   forScore        (12.1.3)
+appstore 682658836   GarageBand      (10.4.3)
+appstore 408981434   iMovie          (10.2.3)
+appstore 409183694   Keynote         (11.0.1)
+appstore 409203825   Numbers         (11.0)
+appstore 409201541   Pages           (11.0)
+appstore 568494494   Pocket          (1.8.6)
+appstore 1482454543  Twitter         (8.63.1)
+appstore 497799835   Xcode           (12.5)
