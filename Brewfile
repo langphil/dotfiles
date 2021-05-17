@@ -168,6 +168,7 @@ brew tcl-tk
 brew tidy-html5
 brew unixodbc
 brew webp
+brew wget
 brew x265
 brew xerces-c
 brew xmlto
@@ -242,7 +243,7 @@ brew python@2
 
 # App Store applications
 appstore 918858936   Airmail         (5.0.4)
-appstore 993487541   CARROT Weather  (4.15.6)
+appstore 993487541   CARROT Weather  (4.15.7)
 appstore 363738376   forScore        (12.1.3)
 appstore 682658836   GarageBand      (10.4.3)
 appstore 408981434   iMovie          (10.2.3)
