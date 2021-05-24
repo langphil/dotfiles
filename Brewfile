@@ -61,6 +61,7 @@ brew imath
 brew isl
 brew jansson
 brew jasper
+brew jbig2dec
 brew jemalloc
 brew jpeg
 brew json-c
@@ -149,6 +150,7 @@ brew postgresql@10
 brew postgresql@12
 brew postgresql@9.6
 brew proj
+brew proj@7
 brew protobuf
 brew protobuf-c
 brew pyenv
