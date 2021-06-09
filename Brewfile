@@ -247,7 +247,7 @@ brew brew-file
 brew python@2
 
 # App Store applications
-appstore 918858936   Airmail         (5.0.4)
+appstore 918858936   Airmail         (5.0.5)
 appstore 993487541   CARROT Weather  (4.15.8)
 appstore 363738376   forScore        (12.1.3)
 appstore 682658836   GarageBand      (10.4.3)
