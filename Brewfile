@@ -212,6 +212,7 @@ cask iterm2
 cask keybase
 cask mamp
 cask onyx
+cask pgadmin4
 cask plex-media-player
 cask postman
 cask rectangle
@@ -257,5 +258,5 @@ appstore 409183694   Keynote         (11.1)
 appstore 409203825   Numbers         (11.1)
 appstore 409201541   Pages           (11.1)
 appstore 568494494   Pocket          (1.8.6)
-appstore 1482454543  Twitter         (8.68.1)
+appstore 1482454543  Twitter         (8.69.2)
 appstore 497799835   Xcode           (12.5)
