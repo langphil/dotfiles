@@ -153,6 +153,7 @@ brew proj
 brew proj@7
 brew protobuf
 brew protobuf-c
+brew putty
 brew pyenv
 brew python@3.8
 brew python@3.9
@@ -191,30 +192,43 @@ cask 1password
 cask 4k-video-downloader
 cask alfred
 cask atom
+cask backblaze
 cask balenaetcher
 cask bartender
 cask brave-browser
 cask browserosaurus
+cask codekit
 cask cyberduck
 cask dash
+cask datagrip
 cask expressvpn
+cask fantastical
 cask firefox
 cask focus
+cask github
 cask gitify
 cask google-chrome
 cask handbrake
+cask istat-menus
 cask iterm2
+cask keybase
+cask mamp
 cask onyx
+cask pgadmin4
 cask plex-media-player
 cask postman
 cask rectangle
 cask sdformatter
+cask sequel-pro
+cask sketch
 cask slack
 cask spotify
+cask steam
 cask tor-browser
 cask transmission
 cask visual-studio-code
 cask vlc
+cask whatsapp
 cask zoom
 
 tap adoptopenjdk/openjdk
@@ -237,16 +251,17 @@ brew brew-file
 brew python@2
 
 # App Store applications
-appstore 918858936   Airmail          (5.0.6)
-appstore 993487541   CARROT Weather   (4.15.8)
-appstore 1491764008  com.echodot.Red  (1.7.1)
-appstore 363738376   forScore         (12.1.3)
-appstore 682658836   GarageBand       (10.4.3)
-appstore 1474335294  GoodLinks        (1.2.1)
-appstore 408981434   iMovie           (10.2.4)
-appstore 409183694   Keynote          (11.1)
-appstore 409203825   Numbers          (11.1)
-appstore 409201541   Pages            (11.1)
-appstore 568494494   Pocket           (1.8.6)
-appstore 1482454543  Twitter          (8.69.2)
-appstore 497799835   Xcode            (12.5)
+appstore 918858936   Airmail               (5.0.6)
+appstore 993487541   CARROT Weather        (4.15.9)
+appstore 1491764008  com.echodot.Red       (1.7.3)
+appstore 363738376   forScore              (12.1.3)
+appstore 682658836   GarageBand            (10.4.3)
+appstore 1474335294  GoodLinks             (1.2.1)
+appstore 408981434   iMovie                (10.2.5)
+appstore 409183694   Keynote               (11.1)
+appstore 409203825   Numbers               (11.1)
+appstore 409201541   Pages                 (11.1)
+appstore 568494494   Pocket                (1.8.6)
+appstore 1475905948  RDM - GUI for Redis®  (2021.5.191)
+appstore 1482454543  Twitter               (8.71)
+appstore 497799835   Xcode                 (12.5.1)
