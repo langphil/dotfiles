@@ -143,6 +143,7 @@ brew pixman
 brew pkcs11-helper
 brew pkg-config
 brew poppler
+brew poppler-qt5
 brew popt
 brew postgis
 brew postgresql
