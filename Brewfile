@@ -54,6 +54,7 @@ brew graphviz
 brew gts
 brew harfbuzz
 brew hdf5
+brew hunspell
 brew icu4c
 brew ilmbase
 brew imagemagick
@@ -258,10 +259,10 @@ appstore 363738376   forScore              (12.1.3)
 appstore 682658836   GarageBand            (10.4.3)
 appstore 1474335294  GoodLinks             (1.3.1)
 appstore 408981434   iMovie                (10.2.5)
-appstore 1475897096  Jira                  (136.0.0)
+appstore 1475897096  Jira                  (137.1.0)
 appstore 409183694   Keynote               (11.1)
 appstore 409203825   Numbers               (11.1)
 appstore 409201541   Pages                 (11.1)
 appstore 1475905948  RDM - GUI for Redis®  (2021.6.192)
-appstore 1482454543  Twitter               (8.79)
+appstore 1482454543  Twitter               (8.80)
 appstore 497799835   Xcode                 (12.5.1)
