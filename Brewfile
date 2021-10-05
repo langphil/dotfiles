@@ -15,6 +15,7 @@ brew awscli
 brew boost
 brew brotli
 brew c-ares
+brew ca-certificates
 brew cairo
 brew cfitsio
 brew cgal
@@ -258,7 +259,7 @@ appstore 1496543317  Book Track            (2.1.13)
 appstore 993487541   CARROT Weather        (4.15.9)
 appstore 363738376   forScore              (12.1.3)
 appstore 682658836   GarageBand            (10.4.3)
-appstore 1474335294  GoodLinks             (1.3.1)
+appstore 1474335294  GoodLinks             (1.3.2)
 appstore 408981434   iMovie                (10.2.5)
 appstore 1475897096  Jira                  (139.0.0)
 appstore 409183694   Keynote               (11.2)
