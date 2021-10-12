@@ -83,6 +83,7 @@ brew libksba
 brew liblqr
 brew libmetalink
 brew libmpc
+brew libnghttp2
 brew libomp
 brew libpng
 brew libpq
@@ -113,6 +114,7 @@ brew lzo
 brew m4
 brew mas
 brew maven
+brew md4c
 brew memcached
 brew minizip
 brew mpdecimal
@@ -254,7 +256,7 @@ brew brew-file
 brew python@2
 
 # App Store applications
-appstore 918858936   Airmail               (5.0.7)
+appstore 918858936   Airmail               (5.0.9)
 appstore 1496543317  Book Track            (2.1.13)
 appstore 993487541   CARROT Weather        (4.15.9)
 appstore 363738376   forScore              (12.1.3)
