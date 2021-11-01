@@ -66,6 +66,7 @@ brew jasper
 brew jbig2dec
 brew jemalloc
 brew jpeg
+brew jpeg-xl
 brew json-c
 brew krb5
 brew libb2
@@ -99,6 +100,7 @@ brew libtiff
 brew libtool
 brew libunistring
 brew libuv
+brew libvmaf
 brew libx11
 brew libxau
 brew libxcb
@@ -160,6 +162,7 @@ brew protobuf
 brew protobuf-c
 brew putty
 brew pyenv
+brew python@3.10
 brew python@3.8
 brew python@3.9
 brew qt
@@ -257,16 +260,16 @@ brew python@2
 
 # App Store applications
 appstore 918858936   Airmail               (5.0.9)
-appstore 1496543317  Book Track            (2.1.13)
+appstore 1496543317  Book Track            (2.2.1)
 appstore 993487541   CARROT Weather        (4.15.9)
-appstore 363738376   forScore              (12.1.3)
-appstore 682658836   GarageBand            (10.4.3)
-appstore 1474335294  GoodLinks             (1.3.2)
+appstore 363738376   forScore              (13.0.5)
+appstore 682658836   GarageBand            (10.4.4)
+appstore 1474335294  GoodLinks             (1.4.3)
 appstore 408981434   iMovie                (10.2.5)
-appstore 1475897096  Jira                  (139.0.0)
+appstore 1475897096  Jira                  (141.2.0)
 appstore 409183694   Keynote               (11.2)
 appstore 409203825   Numbers               (11.2)
 appstore 409201541   Pages                 (11.2)
 appstore 1475905948  RDM - GUI for Redis®  (2021.6.192)
-appstore 1482454543  Twitter               (8.82)
-appstore 497799835   Xcode                 (13.0)
+appstore 1482454543  Twitter               (8.88.1)
+appstore 497799835   Xcode                 (13.1)
