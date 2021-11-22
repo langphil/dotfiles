@@ -205,6 +205,7 @@ cask balenaetcher
 cask bartender
 cask brave-browser
 cask browserosaurus
+cask chromedriver
 cask codekit
 cask cyberduck
 cask dash
@@ -260,13 +261,13 @@ brew python@2
 
 # App Store applications
 appstore 918858936   Airmail               (5.1)
-appstore 1496543317  Book Track            (2.2.1)
+appstore 1496543317  Book Track            (2.2.2)
 appstore 993487541   CARROT Weather        (4.15.9)
 appstore 363738376   forScore              (13.0.6)
 appstore 682658836   GarageBand            (10.4.4)
 appstore 1474335294  GoodLinks             (1.4.3)
 appstore 408981434   iMovie                (10.2.5)
-appstore 1475897096  Jira                  (142.0.0)
+appstore 1475897096  Jira                  (143.0.0)
 appstore 409183694   Keynote               (11.2)
 appstore 409203825   Numbers               (11.2)
 appstore 409201541   Pages                 (11.2)
